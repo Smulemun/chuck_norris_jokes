@@ -9,4 +9,4 @@ bla bla
 
 ## Showcase
 
-bla bla
+![screenshot1](assets/screenshots/screenshot1.png)
