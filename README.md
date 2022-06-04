@@ -9,4 +9,6 @@ bla bla
 
 ## Showcase
 
-![screenshot1](assets/screenshots/screenshot1.png)
+![screenshot1](assets/screenshots/screenshot1.jpg)
+
+![screenshot2](assets/screenshots/screenshot2.jpg)
