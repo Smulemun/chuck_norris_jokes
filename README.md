@@ -1,10 +1,7 @@
-# Chuck Norris Jokes
+## Description
 
 This app displlays random Chuck Norris joke using https://api.chucknorris.io/ <br />
 It also shows random image of Chuck Norris using https://serpapi.com/ 
-
-## Description
-
 To see another joke and image you can press the like button or make left/right swipe.
 
 ## Screenshots
