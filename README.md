@@ -5,9 +5,9 @@ It also shows random image of Chuck Norris using https://serpapi.com/
 
 ## Description
 
-bla bla
+To see another joke and image you can press the like button or make left/right swipe.
 
-## Showcase
+## Screenshots
 
 ![screenshot1](assets/screenshots/screenshot1.jpg)
 
