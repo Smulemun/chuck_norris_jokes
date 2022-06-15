@@ -12,7 +12,7 @@ You can also view jokes related to one of categories <br />
 ## Technical Part
 
 Random jokes, jokes by category and search implemented using [Chuck Norris jokes API](https://api.chucknorris.io/) <br />
-Generates random Chuck Norris image using[Google Images API] (https://serpapi.com/) <br />
+Generates random Chuck Norris image using [Google Images API](https://serpapi.com/) <br />
 Saves favourite jokes using [Firebase Realtime Database](https://firebase.google.com/docs/database) <br />
 Monitors user crashes using [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) <br />
 
