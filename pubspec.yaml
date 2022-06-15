@@ -39,6 +39,10 @@ dependencies:
   build_runner: ^2.1.11
   json_annotation: ^4.5.0
   analyzer_plugin: ^0.10.0
+  firebase_core: ^1.17.1
+  firebase_database: ^9.0.15
+  firebase_crashlytics: ^2.8.1
+  connectivity_plus: ^2.3.4
 
 
 dev_dependencies:
@@ -51,6 +55,12 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.9.3  
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

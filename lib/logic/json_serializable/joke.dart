@@ -16,3 +16,15 @@ class JokeResponseModel {
   @override
   String toString() => value;
 }
+
+@JsonSerializable()
+class JokeList {
+  final List<JokeResponseModel> result;
+
+  JokeList(this.result);
+
+  factory JokeList.fromJson(Map<String, dynamic> json) =>
+      _$JokeListFromJson(json);
+
+  Map<String, dynamic> toJson() => _$JokeListToJson(this);
+}

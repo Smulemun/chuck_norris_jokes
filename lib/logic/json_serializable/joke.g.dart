@@ -15,3 +15,13 @@ Map<String, dynamic> _$JokeResponseModelToJson(JokeResponseModel instance) =>
     <String, dynamic>{
       'value': instance.value,
     };
+
+JokeList _$JokeListFromJson(Map<String, dynamic> json) => JokeList(
+      (json['result'] as List<dynamic>)
+          .map((e) => JokeResponseModel.fromJson(e as Map<String, dynamic>))
+          .toList(),
+    );
+
+Map<String, dynamic> _$JokeListToJson(JokeList instance) => <String, dynamic>{
+      'result': instance.result,
+    };
